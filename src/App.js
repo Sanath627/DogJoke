@@ -4,7 +4,7 @@ import DogJoke from './DogJoke';
 function App() {
   return (
     <div className="App">
-      <h1>🐶 Daily Dog & Dad Joke</h1>
+      <h1>Daily Dog & Dad Joke</h1>
       <DogJoke />
     </div>
   );
